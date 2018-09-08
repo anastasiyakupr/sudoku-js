@@ -1,0 +1,16 @@
+{
+  "name": "javascript-sudoku-game",
+  "description": "Sudoku game on Javascript (jQuery)",
+  "version": "1.1.4",
+  "author": "Anastasia Kupriyanova",
+  "license": "MIT",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/anastasiyakupr/sudoku-js"
+  },
+  "devDependencies": {
+      "grunt": "^1.0.3",
+      "grunt-contrib-sass": "^0.7.3",
+      "grunt-contrib-uglify-es": "^3.3.0"
+  }
+}
